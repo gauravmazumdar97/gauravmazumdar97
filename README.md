@@ -26,12 +26,3 @@ Skilled in translating project requirements into technical specifications and de
 ![](https://img.shields.io/badge/-Git-white?logo=git&logoColor=red&style=flat)
 ![](https://img.shields.io/badge/-Jira-white?logo=jira&logoColor=blue&style=flat)
 ![Github](http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
-
-
-#### Github Stats  
-<div align="center"><img src=""https://github-readme-stats.vercel.app/api?username=gauravmazumdar97&theme=dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-"https://github-readme-stats.vercel.app/api?username=gauravmazumdar97&theme=dark&show_icons=true"
-
-
-
